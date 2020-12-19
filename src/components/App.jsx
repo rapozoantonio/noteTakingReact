@@ -19,7 +19,7 @@ function App() {
 				content: contentText
 			}];
 		});
-	}
+	};
 
 	function deleteNote(id) {
 		setNotes((prevNotes) => {
@@ -27,7 +27,7 @@ function App() {
 				return index !== id;
 			});
 		});
-	}
+	};
 
 
   return (

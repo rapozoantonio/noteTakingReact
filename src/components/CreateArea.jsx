@@ -38,7 +38,7 @@ function CreateArea(props) {
 		        value={titleText} />
 		        : 
 		        null
-		    } 
+		    }; 
 
 		        <textarea 
 		        onChange={handleContent} 
