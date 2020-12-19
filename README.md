@@ -1,1 +1,6 @@
-# noteTakingReact
+# note Taking with React
+
+
+check it out!
+
+https://stormy-castle-02000.herokuapp.com/
